@@ -1,0 +1,30 @@
+# sha256 of the ORIGINAL file, original bytes, stored bytes, chain, path;
+# each file is stored as path.xz, LF line endings, rows sorted by path
+79cf14f85de32fa3af8fc75182a4cb904dee07fd29275418de2a31bbdd359d71  6043328  2632704  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  20251216_141819_PVDF2_Film_U_00002.nid
+34f24632083becf2111d311e03adb77d708b54d5cc5473af697b750cb14c432d  16874560  2041832  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  A1_OCSOH-PMMA21k_300421.0_300425.spm
+70356b12b4fe8b274e2dc963729f0dc739be01c80768ad11c2f3063a54bf3032  97344  11664  lzma2:preset=9e  A1_OCSOH-PMMA21k_300421.0_300425.spm-6616_ForceCurveIndex_100.spm
+1c3cddb365a1b9964821a2420d956a8730eb24cc7daceb9dfe25026a40a65a55  97344  10408  lzma2:preset=9e  A1_OCSOH-PMMA21k_300421.0_300425.spm-6616_ForceCurveIndex_387.spm
+f1a3492c6228e21819260b077bb5c1732dce33753950b0ab6006a1fe1a6ed654  606852  224340  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  AC160s00.ARDF
+475c13f4f261fa50c3d05c1b8371b1ede39c1661d129bca908a2e03bcb6426d6  685820  215492  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  AC160s00.h5
+27cac7e9ec468cdb495ef897aff9fae56cd96180739487aa659a65ddbef20d7b  1130560  152812  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  DOE4_20nN_80nm.0_00012.spm
+536cb1aba82cc1ddc81b2cc45d53d5fa5d5b774332ae4252435a9846d07c3a95  49978040  14975340  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/both0001.ARDF
+1b9637f5873abc3e35e81e1cd894ac3a0f244185fcac6ef568082437651d1453  49285872  14004644  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/both0001.h5
+3d5c54921b34ed19fd4c342f7a406fd1f2f26fe11b7da653ff6c4060ed635398  14904280  4628980  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/hard0001.ARDF
+5e65b3d151669f0d8f64cb66d5b1dcaa7195f95a0cefc561b0477b987e430473  14904280  4627144  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/hard0003.ARDF
+e8a88069c67c0b3b2ddb46bb26315b334b49ab9a61ba077993b86db896491d9c  61868736  16435320  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/hundhz0001.ARDF
+988a5d705e03c2fb988bb784dc07487e56b46f3e669b1868733b93bc390db9f6  24963888  7644908  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/hyte2x0001.ARDF
+1675daf52d2be1f6320f110c7e62860fe7a8c5e9c1edc60114b9f0e5ebfb58e0  13350368  4154452  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/mellow0003.ARDF
+45f1d1127919a8fe14fa02eb8f0d8e7bd0325f73e8888a302e0c2a6429e14e33  25004688  7769076  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/onekhz0001.ARDF
+2b5fdf59464b488cb22419ae03f6f395662c808cb4ecd70d749e984ec5d3d98f  25004800  7757892  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/rtrace0001.ARDF
+38c61899da68765157a031cf5080116a0aac98b423332325e8eff034a1ef5aaa  24660608  7300172  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/rtrace0001.h5
+91e715e4a0ac58bd224c3c7863bf79de932726ac9aa1d6289e0f46356b908d49  49891728  15303772  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/twoxln0001.ARDF
+1bd56b191faeab4e8a4d93a5d178db69fbddac60668bc2a133474a0fa3445002  49887952  15205548  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/twoxpt0001.ARDF
+14241dbbba731f0f7704db2c53f33ccbc614b9c75d8260cb97a562bb8c89879f  24963888  7714244  delta:dist=4+lzma2:preset=9e,lc=0,lp=2,pb=2  PDMS_SAA/ffm/wide2x0001.ARDF
+8b0c33801893a653bdaa679d18e496d92bee0783192dac57fe3cd0132c164521  174080  50404  delta:dist=2+lzma2:preset=9e,lc=0,lp=1,pb=1  PS_PCL_SAA/QNM/maxscanrate.000.pfc
+599ea3eea928248978f1f80c609af9b965f52fb2524d8453d201c3d4c9362926  567296  158296  delta:dist=2+lzma2:preset=9e,lc=0,lp=1,pb=1  PS_PCL_SAA/QNM/onekhz.000.pfc
+cb9520c6dadc948daf6ee69ab0fbe4bb2ecc654dac52fd7a9c9215dfbd9981f6  567296  158376  delta:dist=2+lzma2:preset=9e,lc=0,lp=1,pb=1  PS_PCL_SAA/QNM/onekhz.001.pfc
+5fc3f2e30512abbf1751d02a07180a072f08e01be6851c9e2979b71ea7b5c010  48918  8936  lzma2:preset=9e  PVDF2_Film_U_00002/CSV/PVDF2_Film_U_00002_R01_C10.csv
+ae567aae6a56b03085f3a471e300c1f5974e78e6c38c4a9c6e16b4a0ddb0248b  48359  5916  lzma2:preset=9e  PVDF2_Film_U_00002/CSV/PVDF2_Film_U_00002_R10_C01.csv
+ec166491b194561765d695887a96d6bb28a764af52debc97cf0b50ac547960bb  47381  8548  lzma2:preset=9e  PVDF2_Film_U_00002/CSV/PVDF2_Film_U_00002_R10_C02.csv
+25e989988d92554c9eaaf973f3a5557670df74ac064804eb6a6be38a0ea94767  81472  6920  lzma2:preset=9e  onekhz.001.pfc-8B8F_ForceCurveIndex_296.spm
+a88cea117b4ce542d2827a1d574aa965710182d8db5cb378779fae8f956195c0  3713  1000  lzma2:preset=9e  onekhz.001.pfc-record261-retract-ascii.txt

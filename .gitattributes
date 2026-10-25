@@ -1,0 +1,4 @@
+*.xz binary -delta
+SHA256SUMS.txt text eol=lf
+*.py text eol=lf
+*.md text eol=lf
